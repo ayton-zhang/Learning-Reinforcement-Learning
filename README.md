@@ -125,11 +125,6 @@ This repository serves as a comprehensive documentation of my journey in learnin
 
 <details  closed><summary>
 
-  
-
-| File | Summary |
-
-| --- | --- |
 
 | [Actor_Critic.ipynb](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/Actor_Critic.ipynb)|
 
