@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
-<br>HANDS-ON-REINFORCEMENT-LEARNING</h1>
+<br>LEARNING-REINFORCEMENT-LEARNING</h1>
 <h3>◦ HTTPStatus Exception: 429</h3>
 <h3>◦ Developed with the software and tools below.</h3>
 
@@ -9,6 +9,10 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white" alt="Python" />
 </p>
+<img src="https://img.shields.io/github/license/ayton-zhang/Learning-Reinforcement-Learning?style=flat-square&color=5D6D7E" alt="GitHub license" />
+<img src="https://img.shields.io/github/last-commit/ayton-zhang/Learning-Reinforcement-Learning?style=flat-square&color=5D6D7E" alt="git-last-commit" />
+<img src="https://img.shields.io/github/commit-activity/m/ayton-zhang/Learning-Reinforcement-Learning?style=flat-square&color=5D6D7E" alt="GitHub commit activity" />
+<img src="https://img.shields.io/github/languages/top/ayton-zhang/Learning-Reinforcement-Learning?style=flat-square&color=5D6D7E" alt="GitHub top language" />
 </div>
 
 ---
@@ -21,7 +25,7 @@
 - [⚙️ Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
-    - [🤖 Running hands-on-reinforcement-learning](#-running-hands-on-reinforcement-learning)
+    - [🤖 Running Learning-Reinforcement-Learning](#-running-Learning-Reinforcement-Learning)
     - [🧪 Tests](#-tests)
 - [🛣 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
@@ -47,7 +51,7 @@ HTTPStatus Exception: 429
 ## 📂 Repository Structure
 
 ```sh
-└── hands-on-reinforcement-learning/
+└── Learning-Reinforcement-Learning/
     ├── Actor Critic.ipynb
     ├── build/
     │   └── lib/
@@ -77,23 +81,23 @@ HTTPStatus Exception: 429
 
 <details closed><summary>Root</summary>
 
-| File                                | Summary                   |
-| ---                                 | ---                       |
-| [Actor Critic.ipynb]({file})        | HTTPStatus Exception: 429 |
-| [DQN.ipynb]({file})                 | HTTPStatus Exception: 429 |
-| [dynamic programming.ipynb]({file}) | HTTPStatus Exception: 429 |
-| [MDP.ipynb]({file})                 | HTTPStatus Exception: 429 |
-| [PPO.ipynb]({file})                 | HTTPStatus Exception: 429 |
-| [REINFORCE.ipynb]({file})           | HTTPStatus Exception: 429 |
-| [requirements.txt]({file})          | HTTPStatus Exception: 429 |
-| [setup.py]({file})                  | HTTPStatus Exception: 429 |
-| [Temporal Difference.ipynb]({file}) | HTTPStatus Exception: 429 |
-| [rl_utils.py]({file})               | HTTPStatus Exception: 429 |
-| [rl_utils.py]({file})               | HTTPStatus Exception: 429 |
-| [dependency_links.txt]({file})      | HTTPStatus Exception: 429 |
-| [PKG-INFO]({file})                  | HTTPStatus Exception: 429 |
-| [SOURCES.txt]({file})               | HTTPStatus Exception: 429 |
-| [top_level.txt]({file})             | HTTPStatus Exception: 429 |
+| File                                                                                                                                 | Summary                   |
+| ---                                                                                                                                  | ---                       |
+| [Actor Critic.ipynb](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/Actor Critic.ipynb)                    | HTTPStatus Exception: 429 |
+| [DQN.ipynb](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/DQN.ipynb)                                      | HTTPStatus Exception: 429 |
+| [dynamic programming.ipynb](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/dynamic programming.ipynb)      | HTTPStatus Exception: 429 |
+| [MDP.ipynb](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/MDP.ipynb)                                      | HTTPStatus Exception: 429 |
+| [PPO.ipynb](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/PPO.ipynb)                                      | HTTPStatus Exception: 429 |
+| [REINFORCE.ipynb](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/REINFORCE.ipynb)                          | HTTPStatus Exception: 429 |
+| [requirements.txt](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/requirements.txt)                        | HTTPStatus Exception: 429 |
+| [setup.py](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/setup.py)                                        | HTTPStatus Exception: 429 |
+| [Temporal Difference.ipynb](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/Temporal Difference.ipynb)      | HTTPStatus Exception: 429 |
+| [rl_utils.py](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/build\lib\utils\rl_utils.py)                  | HTTPStatus Exception: 429 |
+| [rl_utils.py](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/utils\rl_utils.py)                            | HTTPStatus Exception: 429 |
+| [dependency_links.txt](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/utils.egg-info\dependency_links.txt) | HTTPStatus Exception: 429 |
+| [PKG-INFO](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/utils.egg-info\PKG-INFO)                         | HTTPStatus Exception: 429 |
+| [SOURCES.txt](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/utils.egg-info\SOURCES.txt)                   | HTTPStatus Exception: 429 |
+| [top_level.txt](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/utils.egg-info\top_level.txt)               | HTTPStatus Exception: 429 |
 
 </details>
 
@@ -113,14 +117,14 @@ Please ensure you have the following dependencies installed on your system:
 
 ### 🔧 Installation
 
-1. Clone the hands-on-reinforcement-learning repository:
+1. Clone the Learning-Reinforcement-Learning repository:
 ```sh
-git clone ../hands-on-reinforcement-learning
+git clone https://github.com/ayton-zhang/Learning-Reinforcement-Learning
 ```
 
 2. Change to the project directory:
 ```sh
-cd hands-on-reinforcement-learning
+cd Learning-Reinforcement-Learning
 ```
 
 3. Install the dependencies:
@@ -128,7 +132,7 @@ cd hands-on-reinforcement-learning
 pip install -r requirements.txt
 ```
 
-### 🤖 Running hands-on-reinforcement-learning
+### 🤖 Running Learning-Reinforcement-Learning
 
 ```sh
 jupyter nbconvert --execute notebook.ipynb
@@ -155,9 +159,9 @@ pytest notebook_test.py
 
 Contributions are welcome! Here are several ways you can contribute:
 
-- **[Submit Pull Requests](https://github.com/local/hands-on-reinforcement-learning/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/local/hands-on-reinforcement-learning/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/local/hands-on-reinforcement-learning/issues)**: Submit bugs found or log feature requests for LOCAL.
+- **[Submit Pull Requests](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **[Join the Discussions](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/discussions)**: Share your insights, provide feedback, or ask questions.
+- **[Report Issues](https://github.com/ayton-zhang/Learning-Reinforcement-Learning/issues)**: Submit bugs found or log feature requests for AYTON-ZHANG.
 
 #### *Contributing Guidelines*
 
